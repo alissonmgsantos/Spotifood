@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spotifood/static/css/main.e139f90e.chunk.css",
+    "main.js": "/spotifood/static/js/main.6a8efac1.chunk.js",
+    "main.js.map": "/spotifood/static/js/main.6a8efac1.chunk.js.map",
+    "runtime-main.js": "/spotifood/static/js/runtime-main.a3b371ce.js",
+    "runtime-main.js.map": "/spotifood/static/js/runtime-main.a3b371ce.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/spotifood/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.8d038c36.chunk.js": "/spotifood/static/js/2.8d038c36.chunk.js",
+    "static/js/2.8d038c36.chunk.js.map": "/spotifood/static/js/2.8d038c36.chunk.js.map",
+    "index.html": "/spotifood/index.html",
+    "precache-manifest.419002bba0933e5a2857472fd58dc725.js": "/spotifood/precache-manifest.419002bba0933e5a2857472fd58dc725.js",
+    "service-worker.js": "/spotifood/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/spotifood/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.e139f90e.chunk.css.map": "/spotifood/static/css/main.e139f90e.chunk.css.map",
+    "static/js/2.8d038c36.chunk.js.LICENSE.txt": "/spotifood/static/js/2.8d038c36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b371ce.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.8d038c36.chunk.js",
+    "static/css/main.e139f90e.chunk.css",
+    "static/js/main.6a8efac1.chunk.js"
+  ]
+}

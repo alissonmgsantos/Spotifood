@@ -2,7 +2,7 @@ import axios from 'axios';
 import { getSession } from '../services/auth';
 
 export const API_MOCKY = axios.create({
-  baseURL: 'http://www.mocky.io/v2',
+  baseURL: 'https://www.mocky.io/v2',
   headers: {
     'Content-Type': 'application/json',
     Accept: 'application/json',
